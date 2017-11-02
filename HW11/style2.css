@@ -1,0 +1,10 @@
+#wrapper {
+	margin: 80px auto;
+	width: 80%;
+	text-align: center;
+	border: 5px solid black;
+	border-radius: 0px;
+	padding: 4%;
+	background: green;
+}
+
